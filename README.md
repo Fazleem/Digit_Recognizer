@@ -9,6 +9,6 @@ The goal of the project is to correctly classify digits from a dataset of tens o
 
 ### Additional Tasks Performed
 
-Wrote the digits manually using a paint and few online tools, and tested the model on the images
+I have written the digits manually using a paint and few online tools, and tested the model on the images
 
 ![predictions](/plots/predictions.png)
